@@ -1,0 +1,16 @@
+{
+  "name": "WOOD MUSIC",
+  "short_name": "Wood Music",
+  "description": "Бесплатная музыка из Internet Archive",
+  "lang": "ru",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0a0807",
+  "theme_color": "#0a0807",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
